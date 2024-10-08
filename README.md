@@ -1,16 +1,10 @@
 # rick_and_morty_universe
 
-Information about rick and morty characters.
+Information about rick and morty characters. this app build with flutter, implement some of widget (scaffold, navigator, Row, Column, ClipRRect, and so on).
 
-## Getting Started
+## App Preview
 
-This project is a starting point for a Flutter application.
+<img width="210" alt="Screenshot 2024-03-11 at 13 48 06" src="https://github.com/user-attachments/assets/8ac31fd4-9c53-46fd-8ed2-034c5cf50483">
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<img width="210" alt="Screenshot 2024-03-11 at 13 48 06" src="https://github.com/user-attachments/assets/d096d70b-30c9-4280-aeb5-64f5333c57dc">
